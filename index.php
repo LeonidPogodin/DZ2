@@ -30,5 +30,5 @@ task5('Карл у Клары украл Кораллы', 'Две бутылки
 
 ////Задание 6
 echo "<p>---------------------Задание 6-----------------</p>";
-//file_put_contents('text.txt', 'Hello again!', FILE_APPEND);
-//task6('text.txt');
+file_put_contents('text.txt', 'Hello again!', FILE_APPEND);
+task6('text.txt');
